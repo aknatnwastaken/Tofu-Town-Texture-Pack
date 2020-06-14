@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 5,
+      "description": "§r§4The Tofu Town Pack!\n§r§3By aknatn§r§9 W.I.P"
+   },
+   "language": {
+      "en_us": {
+         "name": "Tofu Language",
+         "region": "us",
+         "bidirectional": false
+      }
+   }
+}
